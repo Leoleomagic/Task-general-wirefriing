@@ -1,0 +1,24 @@
+                                                                            General Brief
+																			1 Magicmobile.uz
+2) Magicmobile.uz kompanyasi o'z tarmog'i bilan O'zbekiston Respublikasi barcha hududlarini qamrab olgan katta telekommunikatsyalar operatori hisoblanadi. 
+3) Aloqa foydalanuvchilari uchun yaratilgan.
+4) Aloqa foydalanuvchilari uchun yaratgan 20 dan ortiq xalqaro operatorlar bilan hamkor.
+5) pdf shaklda mijozga yetkaziladi.
+6) cost total amount .....$ 
+7) timeline yanvar 1-5 wirefriming 6-9 UI design 10-11 testing 12-15 coding 16-testing after coding 17- Deadline 
+General brief shunday yoziladi.
+
+
+                                                                            Wirifriming brief
+1) Magicmobile
+2) nav bar
+1- internet tariflar (logo)
+2- saytni tas ix tarmog'i (Logo)
+3- speed test (logo)
+4- internet qamrov hududi (logo)
+5- search box
+6- hero slider
+7- inspirational ideas
+8- footer 
+																			
+																			
